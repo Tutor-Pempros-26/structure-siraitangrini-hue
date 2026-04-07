@@ -4,7 +4,6 @@
 int main(int _argc, char **_argv)
 {
   //code
-  
     int jumlah;
     float harga;
     float total;
